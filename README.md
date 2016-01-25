@@ -20,4 +20,4 @@ commit1
 pour master
 >>>>>>> Stashed changes
 aa
-aa
+aaee
